@@ -16,9 +16,13 @@ These files maps VoIP call data (CDRs) to carriers based on IP addresses. It cal
 
 
 **2. Minute Mapping Dashboard (Working File 2)**
+
 **Sheet "H":** Displays daily totals, weekly summaries (W1–W5), and final comparison.
+
 **Sheets W1–W5:** Weekly summary sheets.
+
 **Sheets 1–31:** Daily data entry for each day of the month.
+
 
 **3. Sample CDR File**
 A test file with dummy data to help you understand the workflow.
